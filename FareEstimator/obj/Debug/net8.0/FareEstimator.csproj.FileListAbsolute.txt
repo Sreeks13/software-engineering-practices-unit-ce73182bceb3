@@ -1,0 +1,14 @@
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\software-engineering-practices-unit-ce73182bceb3\FareEstimator\bin\Debug\net8.0\FareEstimator.exe
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\software-engineering-practices-unit-ce73182bceb3\FareEstimator\bin\Debug\net8.0\FareEstimator.deps.json
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\software-engineering-practices-unit-ce73182bceb3\FareEstimator\bin\Debug\net8.0\FareEstimator.runtimeconfig.json
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\software-engineering-practices-unit-ce73182bceb3\FareEstimator\bin\Debug\net8.0\FareEstimator.dll
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\software-engineering-practices-unit-ce73182bceb3\FareEstimator\bin\Debug\net8.0\FareEstimator.pdb
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\software-engineering-practices-unit-ce73182bceb3\FareEstimator\obj\Debug\net8.0\FareEstimator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\software-engineering-practices-unit-ce73182bceb3\FareEstimator\obj\Debug\net8.0\FareEstimator.AssemblyInfoInputs.cache
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\software-engineering-practices-unit-ce73182bceb3\FareEstimator\obj\Debug\net8.0\FareEstimator.AssemblyInfo.cs
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\software-engineering-practices-unit-ce73182bceb3\FareEstimator\obj\Debug\net8.0\FareEstimator.csproj.CoreCompileInputs.cache
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\software-engineering-practices-unit-ce73182bceb3\FareEstimator\obj\Debug\net8.0\FareEstimator.dll
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\software-engineering-practices-unit-ce73182bceb3\FareEstimator\obj\Debug\net8.0\refint\FareEstimator.dll
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\software-engineering-practices-unit-ce73182bceb3\FareEstimator\obj\Debug\net8.0\FareEstimator.pdb
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\software-engineering-practices-unit-ce73182bceb3\FareEstimator\obj\Debug\net8.0\FareEstimator.genruntimeconfig.cache
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\software-engineering-practices-unit-ce73182bceb3\FareEstimator\obj\Debug\net8.0\ref\FareEstimator.dll

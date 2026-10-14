@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\nithy\\AutonomousLearning\\_projects\\ASP.NET-Developer-Path-nyfj8o\\software-engineering-practices-unit-ce73182bceb3\\FareEstimator.Tests\\FareEstimator.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\nithy\\AutonomousLearning\\_projects\\ASP.NET-Developer-Path-nyfj8o\\software-engineering-practices-unit-ce73182bceb3\\FareEstimator.Tests\\FareEstimator.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nithy\\AutonomousLearning\\_projects\\ASP.NET-Developer-Path-nyfj8o\\software-engineering-practices-unit-ce73182bceb3\\FareEstimator.Tests\\FareEstimator.Tests.csproj",
+        "projectName": "FareEstimator.Tests",
+        "projectPath": "C:\\Users\\nithy\\AutonomousLearning\\_projects\\ASP.NET-Developer-Path-nyfj8o\\software-engineering-practices-unit-ce73182bceb3\\FareEstimator.Tests\\FareEstimator.Tests.csproj",
+        "packagesPath": "C:\\Users\\nithy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nithy\\AutonomousLearning\\_projects\\ASP.NET-Developer-Path-nyfj8o\\software-engineering-practices-unit-ce73182bceb3\\FareEstimator.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nithy\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "framework": "net8.0",
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\nithy\\AutonomousLearning\\_projects\\ASP.NET-Developer-Path-nyfj8o\\software-engineering-practices-unit-ce73182bceb3\\FareEstimator\\FareEstimator.csproj": {
+                "projectPath": "C:\\Users\\nithy\\AutonomousLearning\\_projects\\ASP.NET-Developer-Path-nyfj8o\\software-engineering-practices-unit-ce73182bceb3\\FareEstimator\\FareEstimator.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "net8.0": {
+          "framework": "net8.0",
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nithy\\AutonomousLearning\\_projects\\ASP.NET-Developer-Path-nyfj8o\\software-engineering-practices-unit-ce73182bceb3\\FareEstimator\\FareEstimator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nithy\\AutonomousLearning\\_projects\\ASP.NET-Developer-Path-nyfj8o\\software-engineering-practices-unit-ce73182bceb3\\FareEstimator\\FareEstimator.csproj",
+        "projectName": "FareEstimator",
+        "projectPath": "C:\\Users\\nithy\\AutonomousLearning\\_projects\\ASP.NET-Developer-Path-nyfj8o\\software-engineering-practices-unit-ce73182bceb3\\FareEstimator\\FareEstimator.csproj",
+        "packagesPath": "C:\\Users\\nithy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nithy\\AutonomousLearning\\_projects\\ASP.NET-Developer-Path-nyfj8o\\software-engineering-practices-unit-ce73182bceb3\\FareEstimator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nithy\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "framework": "net8.0",
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "net8.0": {
+          "framework": "net8.0",
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

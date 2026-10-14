@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FareEstimator.Tests/1.0.0": {
+        "dependencies": {
+          "FareEstimator": "1.0.0"
+        },
+        "runtime": {
+          "FareEstimator.Tests.dll": {}
+        }
+      },
+      "FareEstimator/1.0.0": {
+        "runtime": {
+          "FareEstimator.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FareEstimator.Tests/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FareEstimator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
